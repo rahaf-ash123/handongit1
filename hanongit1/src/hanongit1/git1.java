@@ -8,9 +8,9 @@ public void nn2(){
 public void nn3(){
 	System.out.println("nn3");
 }
-int []a;
 public void nn(){
 	System.out.println("nn");
 }
+
 
 }
