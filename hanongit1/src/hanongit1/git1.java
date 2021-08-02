@@ -1,7 +1,7 @@
 package hanongit1;
 
 public class git1 {
-int []a;
+int []a; int []b;
 
 
 }
